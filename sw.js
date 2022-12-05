@@ -7,6 +7,7 @@ workbox.precaching.precacheAndRoute([
     'offline.html',
     'icon/offline.png',
     'Css.css',
+    'img/Estrellas.jpeg'
 
 ]);
 
