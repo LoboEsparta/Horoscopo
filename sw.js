@@ -5,7 +5,7 @@ importScripts(
 workbox.precaching.precacheAndRoute([
     'index.html',
     'offline.html',
-    'icon/offline.pn',
+    'icon/offline.png',
     'img/horoscopo-acuario.jpg',
 
 ]);
