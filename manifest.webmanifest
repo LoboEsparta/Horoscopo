@@ -47,7 +47,7 @@
 
 
     "id":"/Horoscopo/index.html",
-    "start_url": "/Horoscopo/index.html",
+    "start_url": "https://horoscopo-ochre.vercel.app/",
     "display": "fullscreen",
     "theme_color": "#00aa00",
     "background_color": "#00aa00"
