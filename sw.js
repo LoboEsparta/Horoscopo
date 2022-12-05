@@ -7,7 +7,10 @@ workbox.precaching.precacheAndRoute([
     'offline.html',
     'icon/offline.png',
     'Css.css',
-    'img/Estrellas.jpeg'
+    'img/Estrellas.jpeg',
+    'css/bootstrap.min.css',
+    'app.js',
+    'js/bootstrap.min.js',
 
 ]);
 
